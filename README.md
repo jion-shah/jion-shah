@@ -1,5 +1,5 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1203212460334997504/1637147991/600x200)
-# Hi there 👋, I'm Jion Shah
+# Hi there 👋
 ### Web Developer
 
 I'm a Web Developer who is passionate about making error-free websites. My first priority to satisfy my client. I'll ensure the website will be gorgeous, user friendly and fully responsive.
